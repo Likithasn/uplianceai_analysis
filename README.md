@@ -14,4 +14,4 @@ This project explores data analysis for a Cooking AI application. The goal is to
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Likithasn/uplianceai_analysis>
